@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1>This is the main section</h1>
+        <h1>This is the home page</h1>
       </main>
 
       <footer className={styles.footer}>
